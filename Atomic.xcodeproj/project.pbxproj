@@ -190,6 +190,7 @@
 				TargetAttributes = {
 					CC6035571C136EE4003ED664 = {
 						CreatedOnToolsVersion = 7.1.1;
+						LastSwiftMigration = 0830;
 					};
 					CC649D4F1C14D6500085ADDE = {
 						CreatedOnToolsVersion = 7.1.1;
@@ -384,6 +385,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -401,6 +403,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = adlai.Atomic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
